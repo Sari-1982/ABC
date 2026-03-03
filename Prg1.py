@@ -1,0 +1,10 @@
+a=str(input("name"))
+b=int(input("roll number"))
+c=int(input("age"))
+x=int(input("maths"))
+y=int(input("science"))
+print("your name",a)
+print("your roll number",b)
+print("your age",c)
+print("your mark",(x+y)/2)
+
